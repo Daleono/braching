@@ -1,2 +1,2 @@
-# braching
+# Braching
 Cómo hacer ramas
